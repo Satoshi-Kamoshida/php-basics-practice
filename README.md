@@ -18,3 +18,7 @@ COACHTECH 教材 Tutorial 7-1「PHPの基礎 ハンズオン演習」で作成�
 ## 動作確認
 
 - 作成したphpファイルをDocker環境で実行し、ブラウザで確認する。
+
+## 追加事項
+
+- 追加演習（discount_calculator.php）
